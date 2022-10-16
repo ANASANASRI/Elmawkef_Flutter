@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826633116108",
+    "project_id": "elmawkef-pfe",
+    "storage_bucket": "elmawkef-pfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826633116108:android:7933a2136d9c3b9c34e569",
+        "android_client_info": {
+          "package_name": "com.elmawkef.inc.elmawkef_inc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826633116108-hmourk8dkbu2urpav1q4ugo8mjb2nsi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcHqW6130QutGEX_tSwUXMGe-gqQaJ1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826633116108-hmourk8dkbu2urpav1q4ugo8mjb2nsi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
